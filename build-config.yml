@@ -1,0 +1,4 @@
+ServiceCode:
+  BuildCommand: pnpm build
+  BuildOutputPath: dist
+PackageManager: pnpm

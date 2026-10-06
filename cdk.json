@@ -1,0 +1,4 @@
+{
+  "app": "./node_modules/.bin/tsx src/cdk/index.ts",
+  "context": { "@extend-cdk/platform:v9CutoverAcknowledged": true }
+}
